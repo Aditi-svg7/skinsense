@@ -9,12 +9,12 @@ from fastapi.middleware.cors import CORSMiddleware
 from PIL import Image, ImageOps
 import pytesseract
 
-
-# Windows configuration
+# Tesseract configuration
 if os.name == "nt":
     pytesseract.pytesseract.tesseract_cmd = (
         r"C:\Program Files\Tesseract-OCR\tesseract.exe"
     )
+
 
 
 app = FastAPI(
