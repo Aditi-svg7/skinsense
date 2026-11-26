@@ -305,7 +305,6 @@ SkinSense/
 │   ├── analyzer.py
 │   ├── ingredient_data.py
 │   ├── requirements.txt
-│   └── ...
 │
 ├── frontend/
 │   ├── public/
@@ -313,9 +312,9 @@ SkinSense/
 │   │   ├── App.jsx
 │   │   ├── App.css
 │   │   ├── index.css
-│   │   └── ...
+│   │   └── main.jsx
 │   ├── package.json
-│   └── ...
+│   └── .gitignore
 │
 ├── Dockerfile
 ├── .gitignore
@@ -397,8 +396,8 @@ The project also serves as an exploration of full-stack development, API integra
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR-PROFILE)
+- GitHub: [Aditi-svg7](https://github.com/Aditi-svg7)
+- LinkedIn: [Aditi Singh](www.linkedin.com/in/aditi-singh-a7b24a342)
 
 ---
 
@@ -411,3 +410,4 @@ Ingredient assessments are based on limited reference data and predefined rules.
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository and suggest improvements.
+
