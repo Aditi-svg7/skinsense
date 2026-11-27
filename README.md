@@ -30,8 +30,9 @@ The project combines a React frontend with a Python FastAPI backend, an OCR pipe
 <!-- Add project screenshots here after capturing them -->
 
 | SkinSense Interface | Ingredient Analysis |
-|---|---|
-| Add frontend screenshot here | Add analysis-result screenshot here |
+| ![FRONT END](localhost_5173_.png) | ![BACKEND](127.0.0.1_8000_docs_utm_source=chatgpt.com.png) |
+
+
 
 ---
 
